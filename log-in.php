@@ -1,4 +1,5 @@
 
+<link rel="stylesheet" href="./src/log-in.css">
 
 <?php
     $file_user_data = "user-data.json";
@@ -37,3 +38,4 @@
         <input name="password" type="password" placeholder="Password" ><br>
         <button type="submit">Login</button>
     </form>
+    <a href="web.php">View our application</a>
