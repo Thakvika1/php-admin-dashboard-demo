@@ -1,4 +1,7 @@
 
+<link rel="stylesheet" href="./src/sign-up.css">
+
+
 <?php
     $file_user_data = 'user-data.json';
 
